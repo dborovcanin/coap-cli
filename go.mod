@@ -3,7 +3,7 @@ module github.com/absmach/coap-cli
 go 1.22
 
 require (
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/plgd-dev/go-coap/v3 v3.3.4
 	github.com/spf13/cobra v1.9.1
 )
@@ -24,5 +24,5 @@ require (
 	golang.org/x/exp v0.0.0-20240416160154-fe59bbe5cc7f // indirect
 	golang.org/x/net v0.24.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.25.0 // indirect
 )
